@@ -1,1 +1,1 @@
-RandomForrestRegression gives as 76% accuracy according to kaggle.com
+RandomForestRegression gives as 76% accuracy according to kaggle.com
