@@ -1,0 +1,1 @@
+Random Forest Regression is the only model which I successfully used for this task, but it didn't give a good score on kaggle.com (370 which placed me only in the first 1000 participants). I will try later to improve my model
